@@ -1,0 +1,7 @@
+.propertyImg{
+    object-fit: cover;
+    border-radius: 3px;
+}
+.propertyImg img{
+    border-radius: 3px;
+}

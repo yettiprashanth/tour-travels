@@ -1,0 +1,11 @@
+.navbar{
+ background-color: #003580;
+}
+.navButton{
+    background-color:white;
+    cursor: pointer;
+    color:aliceblue;
+}
+Link{
+    list-style: none;
+}
